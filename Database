@@ -1,0 +1,9 @@
+CREATE TABLE person (
+id INT(20) NOT NULL ,
+Address VARCHAR(255) ,
+name VARCHAR(255) ,
+phone int(20),
+password int(20),
+PRIMARY KEY (`id`)
+)
+
