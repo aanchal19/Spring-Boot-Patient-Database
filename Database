@@ -1,4 +1,4 @@
-CREATE TABLE person (
+CREATE TABLE patient (
 id INT(20) NOT NULL ,
 Address VARCHAR(255) ,
 name VARCHAR(255) ,
